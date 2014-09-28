@@ -1,7 +1,7 @@
 Summary:	JavaScript interpreter and libraries
 Name:		mozjs17
 Version:	17.0.0
-Release:	1
+Release:	3
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		Libraries
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/js/mozjs%{version}.tar.gz
